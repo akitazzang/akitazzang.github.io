@@ -1,0 +1,22 @@
+{
+  "name": "akitazzang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx http-server ./ -o -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akitazzang/akitazzang.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akitazzang/akitazzang/issues"
+  },
+  "homepage": "https://github.com/akitazzang/akitazzang#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
